@@ -1,11 +1,11 @@
 import java.util.*;
 
-public class Main
+public class StringRemover
 {
 	public static void main(String[] args) {
 	   
-	   String st1 = "ILOVEYOUPIYUUUU";
-	   String st2 = "PIYU";
+	   String st1 = "ILOVEYOUvishal";
+	   String st2 = "vishal";
 	   
 	   StringBuilder res = new StringBuilder(st1);
 	   
