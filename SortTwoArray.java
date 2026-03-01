@@ -20,7 +20,7 @@
 // Hence, the output is 2.50
 import java.util.*;
 
-public class Main
+public class SortTwoArray
 {
 	public static void main(String[] args) {
 	    int[] arr1 = {2,3};
