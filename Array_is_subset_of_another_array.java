@@ -1,5 +1,5 @@
 import java.util.Arrays;
-public class Main
+public class Array_is_subset_of_another_array
 {
 	public static void main(String[] args) {
 	    int[] arr = {11, 1, 13, 21, 3, 7}, arr2 = {11, 3, 7, 1};
