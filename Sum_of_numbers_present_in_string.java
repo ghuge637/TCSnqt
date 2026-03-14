@@ -1,4 +1,4 @@
-public class Main {
+public class Sum_of_numbers_present_in_string {
     public static void main(String[] args) {
 
         String st = "1abc213";
