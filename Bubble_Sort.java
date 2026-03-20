@@ -1,6 +1,4 @@
-
-
-public class Main
+public class Bubble_Sort
 {
 	public static void main(String[] args) {
 	    int[] arr = {4,6,5,1,3,2};
